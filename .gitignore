@@ -1,4 +1,5 @@
-.vscode
+!.vscode/launch.json
+.vscode/
 .env/
 __pycache__
 *.pyc
